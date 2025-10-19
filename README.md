@@ -1,6 +1,6 @@
 # Fake News Detection Project
 
-[![Fake-News-Detection Banner](https://socialify.git.ci/Vaibhavmore/Fake-News-Detection/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)](https://github.com/Vaibhavmore/Fake-News-Detection)
+[[![Fake-News-Detection Banner](https://socialify.git.ci/Vaibhavmore/Fake-News-Detection/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)](https://github.com/Vaibhavmore/Fake-News-Detection)](https://socialify.git.ci/[USERNAME]/[REPOSITORY]?query_parameters)
 
 
 
